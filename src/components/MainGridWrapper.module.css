@@ -1,0 +1,30 @@
+.mainGrid {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+}
+
+@media (max-width: 700px) {
+  .mainGrid {
+    grid-template-columns: 65% 50%;
+  }
+}
+
+.secondaryGrid {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 10fr 6fr 12fr;
+  background: linear-gradient(90deg, #222, #242424, #222);
+}
+
+@media (max-width: 700px) {
+  .secondaryGrid {
+    display: grid;
+    grid-template-rows: 4fr 4fr 12fr;
+  }
+}
+
+.imageContainer {
+  display: grid;
+  justify-content: center;
+  padding-top: 64px;
+}

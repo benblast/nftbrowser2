@@ -1,0 +1,12 @@
+.selectedImageWrapper {
+  height: 200px;
+}
+.selectedImage {
+  width: 600px;
+}
+
+@media (max-width: 700px) {
+  .selectedImage {
+    width: 400px;
+  }
+}
