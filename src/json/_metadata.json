@@ -113060,35 +113060,35 @@
       }
     ]
   },
-  {
-    "name": "Honey Bastard #4444",
-    "description": "Honey Bastards is a collection of 4444 rambunctious honey badger ERC721 tokens - unique collectibles that make a lot of racket on the Ethereum chain. Enjoy responsibly and remember that HOBA don't care about anything.",
-    "image": "ipfs://QmQFbguyzeRnJkGJamBCiqrnAxNzj8QMphWYBvnmU8bfBx/4444.png",
-    "attributes": [
-      {
-        "trait_type": "BACKGROUND",
-        "value": "sonic land"
-      },
-      {
-        "trait_type": "FACE",
-        "value": "harry potter scar"
-      },
-      {
-        "trait_type": "HATS",
-        "value": "sonic hat"
-      },
-      {
-        "trait_type": "SHIRTS",
-        "value": "$10bill mcap shirt"
-      },
-      {
-        "trait_type": "ITEM",
-        "value": "ticker bitcoin lighter"
-      },
-      {
-        "trait_type": "ATTRIBUTES",
-        "value": "glass pipe"
-      }
-    ]
-  }
+{
+  "name": "Honey Bastard #4444",
+  "description": "Honey Bastards is a collection of 4444 rambunctious honey badger ERC721 tokens - unique collectibles that make a lot of racket on the Ethereum chain. Enjoy responsibly and remember that HOBA don't care about anything.",
+  "image": "ipfs://QmQFbguyzeRnJkGJamBCiqrnAxNzj8QMphWYBvnmU8bfBx/4444.png",
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "sonic land"
+    },
+    {
+      "trait_type": "FACE",
+      "value": "harry potter"
+    },
+    {
+      "trait_type": "SHIRTS",
+      "value": "obamasonic10inu shirt"
+    },
+    {
+      "trait_type": "HATS",
+      "value": "sonic hat"
+    },
+    {
+      "trait_type": "ITEM",
+      "value": "ticker bitcoin bic lighter"
+    },
+    {
+      "trait_type": "ATTRIBUTES",
+      "value": "glass pipe"
+    }
+  ]
+}
 ]
